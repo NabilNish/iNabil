@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iNabil</string>
+    <string name="edit">EDIT</string>
+    <string name="user_type">User Type</string>
+    <!-- AUTH -->
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_email">Email*</string>
+    <string name="hint_pass">Password*</string>
+    <string name="hint_mno">Mobile Number*</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="incomplete">Please complete the form</string>
+    <string name="utype_error">Please select user type</string>
+    <string name="mobile_error">Mobile number is not valid</string>
+    <string name="email_error">Email is not valid</string>
+    <string name="pass_error">Password is not valid</string>
+    <string name="pass_error_txt">Password should contain one special character and minimum 8 character required</string>
+    <string name="logout">Logout</string>
+    <string name="change_mobile">Change Mobile Number!</string>
+    <string name="changed_mobile">Number edit successful</string>
+    <string name="email_exist">Email already exist</string>
+</resources>
